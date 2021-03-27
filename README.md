@@ -1,5 +1,5 @@
 # AI_Internship
-This is vietnhh branch, AI intership at BAP software.
+This is a simple email classification using Logistic Regression.
 
 ### Folder tree:
 ```
@@ -55,7 +55,7 @@ In this project we'll take the naive approach and use an average of all the word
 In this project we will train model with 2500 epochs and plot the loss value after each epochs using Matplotlib library.
 
 <p align="center">
-<img src="vietnhh/LogisticRegression/loss_graph/loss_graph.png">
+<img src="loss_graph/loss_graph.png">
 </p>
 
  I tried with many difference value of hyperparameters like learning rate, number of epochs,...
@@ -122,3 +122,6 @@ weighted avg       0.92      0.92      0.92     11314
    macro avg       0.78      0.78      0.78      7532
 weighted avg       0.79      0.79      0.79      7532
 ```
+
+For more information about this project. Read my notebook at: 
+https://github.com/nhhviet98/logistic-regression/blob/master/LogisticRegressionVietnhh.ipynb
