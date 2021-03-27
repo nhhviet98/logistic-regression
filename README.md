@@ -35,8 +35,7 @@ This is a simple email classification using Logistic Regression.
 
 # Logistic Regression
 ```
-cd vietnhh
-cd LogisticRegression
+cd logistic-regression
 python LogisticRegression.py
 ```
 
